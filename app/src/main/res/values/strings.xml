@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Scripture_Reference</string>
+    <string name="Chapter">Chapter</string>
+    <string name="Verse">Verse</string>
+    <string name="Send">Send</string>
+    <string name="Book">Book</string>
+    <string name="Display">Your favorite scripture is: </string>
+    <string name="title_activity_display_message">DisplayMessage</string>
+</resources>
